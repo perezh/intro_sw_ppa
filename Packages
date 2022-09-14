@@ -1,0 +1,75 @@
+Package: is-ide
+Version: 2021.1
+Architecture: amd64
+Maintainer: Intro_SW <<perezh@unican.es>
+Installed-Size: 204
+Depends: geany, geany-plugins, gcc
+Replaces: is-ide
+Provides: is-ide
+Filename: ./is-ide_2021.1_amd64.deb
+Size: 43416
+MD5sum: 1624bed3ef2556e169611a3408cd7852
+SHA1: f96bcc53e00213058beba0bfff8bfb25ddd225b1
+SHA256: bd0f120fbaf708618d745916964edb289da1d9323898b1cbb1d5c6d373dc699a
+Section: libs
+Priority: optional
+Homepage: https://www.istr.unican.es/asignaturas/intro_sw/
+Description: Geany IDE with some customization for Intro_SW
+License: unknown
+Vendor: Intro_SW
+
+Package: is-style
+Version: 2021.2
+Architecture: all
+Maintainer: perezh <marte@marte-Latitude-5520>
+Installed-Size: 36
+Depends: astyle, python3, python3-pip, python3-setuptools
+Filename: ./is-style_2021.2_all.deb
+Size: 26540
+MD5sum: 811c99facf3ceb4c1a126a6f266a0199
+SHA1: 7a19e87725931f4c433998d8e2f1d6bb6bb72b49
+SHA256: 8f5ac8dd6cccd19857bdf663bc5967a28f95d910a03658c112a15f6ed9ecede9
+Section: misc
+Priority: optional
+Multi-Arch: foreign
+Description: Herramienta is_style para la correción de estilo. Herramienta desarrollada por la Universidad de Hardvard (David J. Malan)
+
+Package: libdibujo
+Version: 0.8.1
+Architecture: amd64
+Maintainer: Intro_SW <mgh@unican.es> <perezh@unican.es>
+Installed-Size: 3595
+Depends: gnuplot
+Replaces: libdibujo
+Provides: libdibujo
+Filename: ./libdibujo_0.8.1_amd64.deb
+Size: 1231314
+MD5sum: 0da1876a0c23bfd782b150df0197d62a
+SHA1: 14548f83d1b5742b92ce24b858efef90c9a8943f
+SHA256: 7e5131176d565cca7513346f402bb3b422e023ab95990dee3787eb4cd36d8ab0
+Section: libs
+Priority: optional
+Homepage: https://www.istr.unican.es/asignaturas/intro_sw/
+Description: Intro_SW drawing library for C. It is built upon Raylib (@raysan5) graphical library
+License: unknown
+Vendor: Intro_SW
+
+Package: libintro
+Version: 2021.1
+Architecture: amd64
+Maintainer: Intro_SW <perezh@unican.es>
+Installed-Size: 11
+Replaces: libintro
+Provides: libintro
+Filename: ./libintro_2021.1_amd64.deb
+Size: 5302
+MD5sum: 991ae104d7ac3a8f1c02287cf3fc84bb
+SHA1: bd0f1255b06c665a536340134f2f27fdf1665281
+SHA256: c6f617e0a0639b388597e39577683ca84bf05cb1d0b739f5c4df552597b1aa0a
+Section: libs
+Priority: optional
+Homepage: https://www.istr.unican.es/asignaturas/intro_sw/
+Description: Intro_SW library for C
+License: unknown
+Vendor: Intro_SW
+
