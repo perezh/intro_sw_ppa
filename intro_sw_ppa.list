@@ -1,1 +1,1 @@
-deb [arch=amd64 signed-by=/usr/share/keyrings/intro_sw_ppa-archive-keyring.gpg] https://perezh.github.io/intro_sw_ppa ./
+deb [arch=amd64 signed-by=/usr/share/keyrings/intro_sw_ppa-archive-keyring.gpg] https://perezh.github.io/intro_sw_ppa focal main
