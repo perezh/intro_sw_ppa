@@ -102,10 +102,10 @@ Depends: gnuplot
 Replaces: libplot
 Provides: libplot
 Filename: ./libplot_2022.1_amd64.deb
-Size: 7004
-MD5sum: f9f657efe6c7db1e43c2e4501f90791c
-SHA1: 277660f0cedf5f6fd4c80da0ddbe73e219dfe987
-SHA256: 1760fe52da25eb921fbff210101b33bf57d2df945a864435c04553e8c0065933
+Size: 7046
+MD5sum: dd0bf769a0aaa1aeb5274ed2e9425ba2
+SHA1: 854aac11966c663585a314036b624826d69b2866
+SHA256: 8e71c7de7f8dae79814c66cf301d315923a4b837decd7dc173036c0cf8c19d3f
 Section: libs
 Priority: optional
 Homepage: https://www.istr.unican.es/asignaturas/intro_sw/
