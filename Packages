@@ -94,18 +94,18 @@ License: unknown
 Vendor: Intro_SW
 
 Package: libplot
-Version: 2022.1
+Version: 2022.2
 Architecture: amd64
 Maintainer: Michael G. <mgh@unican.es>
 Installed-Size: 15
 Depends: gnuplot
 Replaces: libplot
 Provides: libplot
-Filename: ./libplot_2022.1_amd64.deb
-Size: 7046
-MD5sum: dd0bf769a0aaa1aeb5274ed2e9425ba2
-SHA1: 854aac11966c663585a314036b624826d69b2866
-SHA256: 8e71c7de7f8dae79814c66cf301d315923a4b837decd7dc173036c0cf8c19d3f
+Filename: ./libplot_2022.2_amd64.deb
+Size: 7064
+MD5sum: 809f19aa433b5b01ef40514ce49298ae
+SHA1: 1e7acfc7e0a2f3f13214cff4c521c0f2aac8f8da
+SHA256: de693733015fc0fd4fc343a8525bfec9de67f0df048454322635726db8d874b0
 Section: libs
 Priority: optional
 Homepage: https://www.istr.unican.es/asignaturas/intro_sw/
