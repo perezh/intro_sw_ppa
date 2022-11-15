@@ -93,3 +93,23 @@ Description: Intro_SW library for C
 License: unknown
 Vendor: Intro_SW
 
+Package: libplot
+Version: 2022.1
+Architecture: amd64
+Maintainer: Michael G. <mgh@unican.es>
+Installed-Size: 15
+Depends: gnuplot
+Replaces: libplot
+Provides: libplot
+Filename: ./libplot_2022.1_amd64.deb
+Size: 7004
+MD5sum: f9f657efe6c7db1e43c2e4501f90791c
+SHA1: 277660f0cedf5f6fd4c80da0ddbe73e219dfe987
+SHA256: 1760fe52da25eb921fbff210101b33bf57d2df945a864435c04553e8c0065933
+Section: libs
+Priority: optional
+Homepage: https://www.istr.unican.es/asignaturas/intro_sw/
+Description: Plot library for C
+License: unknown
+Vendor: Intro_SW
+
