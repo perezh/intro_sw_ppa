@@ -39,16 +39,16 @@ License: unknown
 Vendor: Intro_SW
 
 Package: is-style
-Version: 2022.1
+Version: 2023.1
 Architecture: all
 Maintainer: marte <marte@i7-Sobremesa>
-Installed-Size: 36
-Depends: astyle (>= 3.1), python3, python3-pip, python3-setuptools
-Filename: ./is-style_2022.1_all.deb
-Size: 26556
-MD5sum: 72b64fb7224e89e57dcb639eea03c2cf
-SHA1: e7c9762df20075d8148f0fe85cefd5244331bebe
-SHA256: 4a9244ce7e6bdfca4c8c6a08f26388e6bf839c2a1b458406676880fb6d01811d
+Installed-Size: 536
+Depends: python3, python3-pip, python3-setuptools
+Filename: ./is-style_2023.1_all.deb
+Size: 178892
+MD5sum: 78956a6f1e561a25bbe358893fee5608
+SHA1: 1398986f0aede4fda62725a49bbfdcd99cc102b2
+SHA256: 2885d9fa4bc96295026b37922f1fd9ac8dff93310aa677f90089b3535a59d6dc
 Section: misc
 Priority: optional
 Multi-Arch: foreign
