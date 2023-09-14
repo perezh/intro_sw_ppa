@@ -19,18 +19,18 @@ License: unknown
 Vendor: Eclipse
 
 Package: is-ide
-Version: 2023.1
+Version: 2023.2
 Architecture: amd64
 Maintainer: Intro_SW <<perezh@unican.es>
-Installed-Size: 204
+Installed-Size: 207
 Depends: geany, geany-plugins, gcc
 Replaces: is-ide
 Provides: is-ide
-Filename: ./is-ide_2023.1_amd64.deb
-Size: 43432
-MD5sum: c805cbb8b69c034ef4fe02bd20da1423
-SHA1: be734f6f7dbaf036852fe9964cf183f7834a6144
-SHA256: 0723d387291656e4920d227fa87e7ff336fdb1cd82fb540fe73b0246b1a49456
+Filename: ./is-ide_2023.2_amd64.deb
+Size: 45404
+MD5sum: 8b83343b5d9bf6800e3b34dd44671c2f
+SHA1: 72358831871afb1bf3fb370bcb95c814dc225409
+SHA256: 07081a82fa7923d228bdf38c5098ee28f6f0519728d0635df3e7382a8cf8f41e
 Section: libs
 Priority: optional
 Homepage: https://www.istr.unican.es/asignaturas/intro_sw/
