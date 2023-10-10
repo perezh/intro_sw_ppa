@@ -1,16 +1,16 @@
 Package: is-debug
-Version: 2022.1
+Version: 2023.1
 Architecture: amd64
 Maintainer: Eclipse
 Installed-Size: 103109
-Depends: openjdk-11-jre
+Depends: openjdk-19-jre, openjdk-19-jre-headless
 Replaces: is-debug
 Provides: is-debug
-Filename: ./is-debug_2022.1_amd64.deb
-Size: 95906212
-MD5sum: 12048d585295357937da6ef0066c7920
-SHA1: 435e5a83779b4b6ea87e21b800c3b94cf931be9a
-SHA256: 1990932a00d104d95c759424d73fcaa4c2bd6f4c426e9222cfcd642200cf17ce
+Filename: ./is-debug_2023.1_amd64.deb
+Size: 95902422
+MD5sum: 63f52ddec4540b6562c1b36a3bbd9d33
+SHA1: 0e62874ff6227636596a69b63f330339a45ff528
+SHA256: fd894c3a322f77d41ff22fcaf312b6de1bb544980c0cdbf7e6d933c22ceb01db
 Section: apps
 Priority: optional
 Homepage: https://www.eclipse.org/
