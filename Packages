@@ -6,7 +6,7 @@ Installed-Size: 103109
 Depends: openjdk-19-jre, openjdk-19-jre-headless
 Replaces: is-debug
 Provides: is-debug
-Filename: ./is-debug_2023.1_amd64.deb
+Filename: ./is-debug_2023.2_amd64.deb
 Size: 95902422
 MD5sum: 63f52ddec4540b6562c1b36a3bbd9d33
 SHA1: 0e62874ff6227636596a69b63f330339a45ff528
